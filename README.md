@@ -1,0 +1,1 @@
+This project is a basic recipe website consisting of an index page linked to a few other pages containing recipes.
